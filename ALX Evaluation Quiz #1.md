@@ -97,7 +97,7 @@ Select all valid answers
 
 * []    `nm`
 * []    `ranlib`
-* [xx]    `ar`
+* [x]    `ar`
 * []    `ld`
 * []    I don't know  
 
