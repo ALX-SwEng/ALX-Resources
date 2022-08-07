@@ -193,7 +193,7 @@ Let’s add `printf` statements to the code.
  ```   
 What information do the `printf` statements tell us about how our code is executed? (select all valid statements)
 
-* []    A `printf` statement shows when the for loop is finished
+* [x]    A `printf` statement shows when the for loop is finished
 * [x]    A `printf` statement shows exactly how many times the loop executes
 * [x]    `printf` statements shows that break will cause "For loop exited" to print, indicating that the even number is never printed
 * []    A `printf` statement shows that there is an infinite loop in the code
