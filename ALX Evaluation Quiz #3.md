@@ -18,10 +18,10 @@
 #### 0\. What is the `unistd` symbolic constant for the standard output?
 **Score**: 1.0
 
-*    STDIN\_FILENO
-*    STDOUT\_FILENO
-*    STDERR\_FIELNO
-*    I don't know
+* []    STDIN\_FILENO
+* [x]    STDOUT\_FILENO
+* []    STDERR\_FIELNO
+* []    I don't know
 
 #### 1\. What do these lines print?
 **Score**: 1.0
@@ -32,26 +32,26 @@
     >>> print(my_function())
 ```    
 
-*    1
-*    89
-*    90
-*    891
-*    I don't know
+* []    1
+* []    89
+* [x]    90
+* []    891
+* []    I don't know
 
 #### 2\. In a doubly linked list, what’s the “head” of a linked list?
 **Score**: 1.0
 
-*    It's the node with the pointer to the next node equals to `NULL`
-*    It's the node with the pointer to the previous node equals to `NULL`
-*    I don't know
+* []    It's the node with the pointer to the next node equals to `NULL`
+* [x]    It's the node with the pointer to the previous node equals to `NULL`
+* []    I don't know
 
 #### 3\. In a doubly linked list, what are possible directions to traverse it?
 **Score**: 1.0
 (select all possible answers)
 
-*    Forward
-*    Backward
-*    I don't know
+* [x]    Forward
+* [x]    Backward
+* []    I don't know
 
 #### 4\. What does this print?
 **Score**: 1.0
@@ -59,31 +59,31 @@
     >>> print("{:d} Mission street, {}".format(972, "San Francisco"))
 ```  
 
-*    "972 Mission street, San Francisco"
-*    72 Mission street, San
-*    972 Mission street, San Francisco
-*    San Francisco Mission street, 972
-*    I don't know
+* []    "972 Mission street, San Francisco"
+* []    72 Mission street, San
+* [x]    972 Mission street, San Francisco
+* []    San Francisco Mission street, 972
+* []    I don't know
 
 #### 5\. How many bytes will this statement allocate on a 64 bit machine?
 **Score**: 1.0
 ```
 `malloc(sizeof(char) * 4)`
 ```
-*    4
-*    8
-*    12
-*    16
-*    I don't know
+* [x]    4
+* []    8
+* []    12
+* []    16
+* []    I don't know
 
 #### 6\. You're standing in line at a grocery store, which data type best represents this situation?
 **Score**: 1.0
 
-*    Queue
-*    Array
-*    Dictionary
-*    Stack
-*    I don't know
+* [x]    Queue
+* []    Array
+* []    Dictionary
+* []    Stack
+* []    I don't know
 
 #### 7\. What do these lines print?
 **Score**: 1.0
@@ -94,10 +94,10 @@
     >>> my_function(12)
 ```    
 
-*    Counter: 12
-*    Counter: 89
-*    Counter: 101
-*    I don't know
+* [x]    Counter: 12
+* []    Counter: 89
+* []    Counter: 101
+* []    I don't know
 
 #### 8\. What's wrong with the following C code to get the nth node of a linked list?
 **Score**: 1.0
@@ -133,11 +133,11 @@ Select all correct answers.
     }
 ```    
 
-*    There is no check for if `ptr->next` is `NULL` before moving `ptr`
-*    The function should not return `NULL` if `head` is not found.
-*    If `index` is out of range, the program should return `NULL`
-*    Nothing is wrong
-*    I don't know
+* [x]    There is no check for if `ptr->next` is `NULL` before moving `ptr`
+* []    The function should not return `NULL` if `head` is not found.
+* [x]    If `index` is out of range, the program should return `NULL`
+* []    Nothing is wrong
+* []    I don't know
 
   
 
@@ -149,11 +149,11 @@ Select all correct answers.
     >>> a
 ```    
 
-*    \[1, 2, 3, 4\]
-*    \[1, 10, 3, 4\]
-*    \[1, 2, 10, 4\]
-*    \[1, 2, 10, 10\]
-*    I don't know
+* []    \[1, 2, 3, 4\]
+* []    \[1, 10, 3, 4\]
+* [x]    \[1, 2, 10, 4\]
+* []    \[1, 2, 10, 10\]
+* []    I don't know
 
 #### 10\. What do these lines print?
 **Score**: 1.0
@@ -162,11 +162,11 @@ Select all correct answers.
         print(i, end=" ")
 ```    
 
-*    2 3 4 5 6 7 8 9 10
-*    2 3 4 5 6 7 8 9
-*    4 6 8 10 12 14 16 18
-*    2 4 6 8
-*    I don't know 
+* []    2 3 4 5 6 7 8 9 10
+* []    2 3 4 5 6 7 8 9
+* []    4 6 8 10 12 14 16 18
+* [x]    2 4 6 8
+* []    I don't know 
 
 #### 11\. What does this print?
 **Score**: 1.0
@@ -175,12 +175,12 @@ Select all correct answers.
     >>> print(a[7:-5])
 ```    
 
-*    on
-*    nohtyP
-*    Python
-*    si
-*    is
-*    I don't know
+* []    on
+* []    nohtyP
+* []    Python
+* []    si
+* [x]    is
+* []    I don't know
 
 #### 12\. What do these lines print?
 **Score**: 1.0
@@ -189,37 +189,37 @@ Select all correct answers.
     >>> a.get('friends')[-1].get("name")
 ```    
 
-*    89
-*    \[{'id':82, 'name':"Bob"}, {'id':83, 'name': "Amy"}\]
-*    'Amy'
-*    'Bob'
-*    Nothing
-*    I don't know  
+* []    89
+* []    \[{'id':82, 'name':"Bob"}, {'id':83, 'name': "Amy"}\]
+* [x]    'Amy'
+* []    'Bob'
+* []    Nothing
+* []    I don't know  
 
 #### 13\. What is a circular import in Python?
 **Score**: 1.0
 
-*    When two or more modules are dependant on each other.
-*    When you import a module for calculating dimensions for circles.
-*    When one module imports multiple other modules.
-*    I don't know
+* [x]    When two or more modules are dependant on each other.
+* []    When you import a module for calculating dimensions for circles.
+* []    When one module imports multiple other modules.
+* []    I don't know
 
 #### 14\. Which symbol should I use to redirect the error output to the standard output?
 **Score**: 1.0
 
-*    2>&1
-*    1>&2
-*    2>
-*    I don't know
+* [x]    2>&1
+* []    1>&2
+* []    2>
+* []    I don't know
   
 #### 15\. Which line of code will create a list of every other number from 0 to 10 in reverse in Python?
 **Score**: 1.0
 
-*    list(range(10, 0, -2))
-*    array(range(10, 0, -2))
-*    list(range(0, 10, -2))
-*    array(10, 0, 2))
-*    I don't know
+* [x]    list(range(10, 0, -2))
+* []    array(range(10, 0, -2))
+* []    list(range(0, 10, -2))
+* []    array(10, 0, 2))
+* []    I don't know
 
 #### 16\. What do these lines print?
 **Score**: 1.0
@@ -234,10 +234,10 @@ Select all correct answers.
         print("School")
 ```    
 
-*    Tech
-*    C is fun
-*    School
-*    I don't know
+* [x]    Tech
+* []    C is fun
+* []    School
+* []    I don't know
 
   
 Copyright © 2022 ALX, All rights reserved.
