@@ -2,15 +2,22 @@ ALX Evaluation Quiz #2
 ======================
 
 * * *
+
 **Date:** 2022-06-17
+
 **Status:** Done
+
 **Duration:** 49 minutes (including 1 minute, 14 seconds not on the page )
+
 **Score:** 68.75%
 
 * * *
 **\# "I don't know":** 0
+
 **\# Success:** 11
+
 **\# Fail:** 5
+
 * * *
 
 ### Responses
