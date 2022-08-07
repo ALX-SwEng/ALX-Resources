@@ -51,7 +51,7 @@ ALX Evaluation Quiz #2
 
 (please select all correct answers)
 
-* []    executable
+* [x]    executable
 * [x]    system call
 * [x]    library call
 * []    game
@@ -135,7 +135,7 @@ Which of the following statements about what is causing the error is true? (sele
 ```    
 
 * [x]    `if character not in 'Cc':`
-* []    `if character != 'c' and character != 'C':`
+* [x]    `if character != 'c' and character != 'C':`
 * []    `if character != "cC"`
 * []    I don't know  
 
@@ -195,8 +195,8 @@ Look at the following code.
     carrie@ubuntu:/debugging$       
 ```    
 
-* [x]    9
-* []    11
+* []    9
+* [x]    11
 * []    7
 * []    I don't know  
 
@@ -222,7 +222,7 @@ Look at the following code.
 ```    
 
 * [x]    `return n*'+'`
-* []    `return '+'*n`
+* [x]    `return '+'*n`
 * []    `return ''+n`
 * []    `return``+n+n+n`
 * []    I don't know  
@@ -239,7 +239,7 @@ Look at the following code.
 
 * [x]    Nothing is wrong
 * []    It is impossible to declare the variable `array` this way
-* [x]    The array `array` is not entirely initialized
+* []    The array `array` is not entirely initialized
 * []    It is not possible to access `array[n]`
 * []    I don't know  
 
