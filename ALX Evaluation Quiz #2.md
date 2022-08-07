@@ -18,11 +18,11 @@ ALX Evaluation Quiz #2
 #### 0\. `0x13 << 1` = ?
 **Score**: 1.0
 
-*    0x13
-*    0x12
-[x]  0x26
-*    0x4C
-*    I don't know  
+[]    0x13
+[]    0x12
+[x]    0x26
+[]    0x4C
+[]    I don't know  
 
 #### 1\. What does this command line print?
 **Score**: 1.0
