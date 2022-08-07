@@ -95,7 +95,7 @@ ALX Evaluation Quiz #1
 
 Select all valid answers
 
-* []    `nm`
+* [x]    `nm`
 * []    `ranlib`
 * [x]    `ar`
 * []    `ld`
@@ -226,8 +226,8 @@ To set the member `y` of my variable `my_point` to `98`, I can do (select all va
 * [x]    `my_point.y = 98;`
 * []    `my_point->y = 98;`
 * []    `p.y = 98;`
-* []    `(*p).y = 98;`
-* []    `p->y = 98;`
+* [x]    `(*p).y = 98;`
+* [x]    `p->y = 98;`
 * []    I don't know  
 
 #### 13\. What does the macro `TABLESIZE` expand to?
