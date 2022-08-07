@@ -7,7 +7,7 @@ ALX Evaluation Quiz #2
 
 **Status:** Done
 
-**Duration:** 49 minutes (including 1 minute, 14 seconds not on the page )
+**Duration:** 49 minutes
 * * *
 
 ### Responses
@@ -22,7 +22,7 @@ ALX Evaluation Quiz #2
 * []  I don't know  
 
 #### 1\. What does this command line print?
-**Score**: 1.0
+
 ```
     >>> a = "Hello, world!"
     >>> print(a[:5])
@@ -34,7 +34,6 @@ ALX Evaluation Quiz #2
 * []    I don't know  
 
 #### 2\. What is `98` in base 16?
-**Score**: 1.0
 
 * [x]    `0x62`
 * []    `0x98`
@@ -42,7 +41,6 @@ ALX Evaluation Quiz #2
 * []    I don't know  
 
 #### 3\. What is the `unistd` symbolic constant for the standard input?
-**Score**: 1.0
 
 * [x]    STDIN\_FILENO
 * []    STDOUT\_FILENO
@@ -50,7 +48,7 @@ ALX Evaluation Quiz #2
 * []    I don't know  
 
 #### 4\. Without context, on Ubuntu 14.04 LTS, `write` is a(n) …
-**Score**: 0.0
+
 (please select all correct answers)
 
 * []    executable
@@ -60,7 +58,6 @@ ALX Evaluation Quiz #2
 * []    I don't know  
 
 #### 5\. What is`0b001010010` in base10?
-**Score**: 1.0
 
 * []    81
 * [x]    82
@@ -69,7 +66,7 @@ ALX Evaluation Quiz #2
 * []    I don't know  
 
 #### 6\. What does this print?
-**Score**: 1.0
+
 ```
     >>> print("My favorite line of {} is {:d}.".format("The Zen of Python", 11))
 ```    
@@ -82,7 +79,6 @@ ALX Evaluation Quiz #2
   
 
 #### 7\. The following code gives this incorrect output.
-**Score**: 1.0
 
 Which of the following statements about what is causing the error is true? (select all valid answers)
 ```
@@ -125,7 +121,7 @@ Which of the following statements about what is causing the error is true? (sele
 * []    I don't know  
 
 #### 8\. Choose the line of code to replace the comment below so the function prints a given string without a lower or uppercase `c`.
-**Score**: 0.0
+
 ```
     >>>def no_c_print(s):
     ...    new_string = ''
@@ -144,7 +140,6 @@ Which of the following statements about what is causing the error is true? (sele
 * []    I don't know  
 
 #### 9\. When I am using `O_WRONLY | O_CREAT | O_APPEND` -> the `|` are bitwise operators.
-**Score**: 1.0
 
 * [x]    True
 * []    False
@@ -153,7 +148,6 @@ Which of the following statements about what is causing the error is true? (sele
   
 
 #### 10\. `~ 0x98 =` ?
-**Score**: 1.0
 
 * []    `0x66`
 * [x]    `0x67`
@@ -161,7 +155,6 @@ Which of the following statements about what is causing the error is true? (sele
 * []    I don't know  
 
 #### 11\. In the `main.c` file, on what line is the first error that the compiler returns?
-**Score**: 0.0
 
 Look at the following code.
 ```
@@ -208,7 +201,6 @@ Look at the following code.
 * []    I don't know  
 
 #### 12\. What are the different steps to form an executable file from C source code?
-**Score**: 1.0
 
 * []    Interpretation, compilation and assembly
 * [x]    Preprocessing, compilation, assembly, and linking
@@ -218,7 +210,7 @@ Look at the following code.
 * []    I don't know  
 
 #### 13\. Choose a statement that would complete the function that returns a string made up of `+` `n` number of times (assuming `n` > 0) .
-**Score**: 0.0
+
 ```
     >>> def print_plus(n):
     ...         # REPLACE THIS LINE
@@ -236,7 +228,7 @@ Look at the following code.
 * []    I don't know  
 
 #### 14\. What is wrong with the following code?
-**Score**: 0.0
+
 ```
     int n = 0;
     int array[5];
@@ -252,7 +244,6 @@ Look at the following code.
 * []    I don't know  
 
 #### 15\. What is the correct combination of `oflags` used to open a file with the mode write only, create it if it doesn’t exist and append new content at the end if it already exists?
-**Score**: 1.0
 
 * []    `O_WRONLY`
 * []    `O_WRONLY | O_CREAT | O_EXCL`
