@@ -20,7 +20,7 @@ ALX Evaluation Quiz #2
 
 *    0x13
 *    0x12
-*    0x26
+[x]  0x26
 *    0x4C
 *    I don't know  
 
