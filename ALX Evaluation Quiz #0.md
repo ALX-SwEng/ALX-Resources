@@ -6,22 +6,14 @@
 
 **Status:** Done
 
-**Duration:** 14 minutes (including 6 minutes, 59 seconds not on the page )
+**Duration:** 14 minutes
 
-**Score:** 85.71%
-
-* * *
-**\# "I don't know":** 2
-
-**\# Success:** 11
-
-**\# Fail:** 1
 * * *
 
 ### Responses
 
 #### 0\. What shape will this code print?
-**Score**: 1.0
+
 ```
     #include <stdio.h>
     
@@ -61,7 +53,7 @@
 * []    I don't know  
 
 #### 1\. What does this code print?
-**Score**: 1.0
+
 ```
     * print_something - function to print something
     *
@@ -92,7 +84,6 @@
 * []    I don't know  
 
 #### 2\. Which command should I use to display the exit code of the previous command?
-**Score**: 0.5
 
 * []    `echo ?`
 * []    `echo $EXITCODE`
@@ -101,7 +92,7 @@
 * []    I don't know  
 
 #### 3\. What is the output of the following piece of code?
-**Score**: 1.0
+
 ```
     int i;
     
@@ -119,7 +110,7 @@
 * []    I don't know  
 
 #### 4\. Which of these loop statements exist in C?
-**Score**: 1.0
+
 Select all valid answers
 
 * [x]    for
@@ -131,7 +122,6 @@ Select all valid answers
 * []    I don't know  
 
 #### 5\. What information do the `printf` statements tell us about how our code is executed?
-**Score**: 0.0
 
 This code doesn’t work as intended.
 ```
@@ -210,7 +200,7 @@ What information do the `printf` statements tell us about how our code is execut
 * []    I don't know  
 
 #### 6\. What is the problem with the following C code?
-**Score**: 1.0
+
 ```
     #include <stdio.h>
     
@@ -240,7 +230,6 @@ What information do the `printf` statements tell us about how our code is execut
 * []    I don't know  
 
 #### 7\. Which command should I use for changing a file owner?
-**Score**: 1.0
 
 * []    `su`
 * []    `chmod`
@@ -249,7 +238,6 @@ What information do the `printf` statements tell us about how our code is execut
 * []    I don't know  
 
 #### 8\. What are the different steps to form an executable file from C source code?
-**Score**: 1.0
 
 * []    Interpretation, compilation and assembly
 * [x]    Preprocessing, compilation, assembly, and linking
@@ -259,7 +247,6 @@ What information do the `printf` statements tell us about how our code is execut
 * []    I don't know  
 
 #### 9\. How do you change directory on Linux?
-**Score**: 1.0
 
 * []    pwd
 * [x]    cd
@@ -268,7 +255,6 @@ What information do the `printf` statements tell us about how our code is execut
 * []    I don't know  
 
 #### 10\. Which symbol should I use to redirect the error output to the standard output?
-**Score**: 0.5
 
 * [x]    2>&1
 * []    1>&2
@@ -276,7 +262,6 @@ What information do the `printf` statements tell us about how our code is execut
 * []    I don't know  
 
 #### 11\. What is the size of the `float` data type on a 64-bit machine?
-**Score**: 1.0
 
 * []    1 byte
 * []    2 bytes
@@ -285,7 +270,6 @@ What information do the `printf` statements tell us about how our code is execut
 * []    I don't know
 
 #### 12\. What command would you use to list files on Linux?
-**Score**: 1.0
 
 * [x]    ls
 * []    which
@@ -295,7 +279,6 @@ What information do the `printf` statements tell us about how our code is execut
 * []    I don't know  
 
 #### 13\. What is the numerical value for the `r-xr--r--` permission?
-**Score**: 1.0
 
 * []    522
 * [x]    544
